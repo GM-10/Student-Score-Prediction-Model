@@ -6,7 +6,7 @@ This project aims to develop a machine-learning model that predicts student scor
 
 - Data preprocessing and cleaning
 - Model training and evaluation using scikit-learn library
-- Implementation of Linear Regression
+- Implementation of multi-Linear Regression
 - Evaluation metrics: MSE(Mean Squared Error)
 
 
